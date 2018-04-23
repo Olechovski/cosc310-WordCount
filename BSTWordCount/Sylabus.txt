@@ -1,0 +1,139 @@
+SYLLABUS 
+COSC 310 Data Structures
+
+Instructor:	Mr. David T. Smith
+Office:		330 Stright Hall
+Hours:		MTF 10:15 - 11:15, 1:15 - 2:15 
+Tel:		724-357-4478
+Email:		dtsmith@iup.edu
+
+I.	Course Description
+
+Prerequisite: COSC 110 and COSC 210 (Java)
+
+Course provides a broad study of the fundamental concepts of data; storage systems and structures; lists, arrays, strings, hashing techniques, searching and sorting techniques; string processing.  Course will solidify intermediate level concepts of an object oriented language including inheritance, encapsulation, generics, and polymorphism.  Course content will be reinforced though lab sessions and programming assignments.  All assignments will be in the Java programming language.
+
+This is NOT a language course.  An understanding of Java is assumed.   This is a techniques course.  While the assignments will be in Java, the techniques presented can be applied to other object oriented languages.  Course will stress good programming practices and analysis of employed techniques.
+ 
+II.	Course Objectives
+
+     Upon successful completion of this course, the students will be able to:
+
+A.	Analyze the time and space efficiency of several significant classes of algorithms.
+
+B.	Use abstract data structures, including stacks, queues, trees, graphs, hash tables, and linked lists, that are appropriate for a given algorithm.
+
+C.	Implement abstract data structures, objects and algorithms using an object-oriented approach and determine the effect of the implementation on the performance of the algorithm.
+
+D.	Use the object-oriented approach to program design and recognize its capabilities relative to the procedural paradigm.
+
+E.	Effectively use a debugger to examine the running state of a program.
+
+III.	Detailed Course Outline
+ 
+1.	Introduction to abstract data types and objects (6 hours)
+
+a.	Encapsulation, public and private attributes
+b.	objects, classes, and inheritance
+c.	polymorphism
+d.	generics
+e.	separation of interface from implementation
+
+2.	Linear Data Structures (12 hours)
+
+a.	strings
+b.	array storage mapping functions
+c.	dynamic storage allocation
+d.	linked lists - singly and doubly linked lists
+e.	stacks and queues - as objects
+f.	circular lists and multi-lists
+g.	implementations of linear objects using several actual data structures 
+
+3.	Algorithm analysis (3 hours)
+a.	big O notation
+b.	constant, linear, log, quadratic, and cubic
+c.	average case/worst case
+
+4.	Sorting (3 hours)
+
+a.	elementary sorting techniques (exchange, selection, and insertion)
+b.	recursion as a programming technique
+c.	advanced sorting techniques (merge and quick)
+
+5.	Hierarchical Data Structures (9 hours)
+
+a.	general trees
+b.	binary trees
+c.	implementations of binary trees
+d.	pre-order, post-order, in-order traversals
+e.	special applications of binary trees (search trees, heaps)
+f.	other trees (AVL, b-trees, 2-3-trees)
+
+6.	Graphs (3 hours)
+
+7.	Hash tables (3 hours)
+
+a.	hashing functions
+b.	collision resolution
+
+IV.	Textbook
+ 
+Data Structures and Problem Solving using Java, Mark Allen Weiss,
+2nd Edition, Addison Wesley, Copyright 2003, ISBN 0-201-74835-5
+
+It is assumed that you know material covered in chapters 1 – 3.  Course will begin at chapter 4, Inheritance.
+ 
+V.	Evaluation Method
+ 
+The grade for the course will be determined as follows:
+
+     Exam 1 	100 points         
+     Exam 2	100 points               
+     Final	100 points               
+     Assignments (~6)	300 points        
+       
+Grading Scale:
+
+     90 - 100%	A
+     80 - 89%	B
+     70 - 79%	C
+     60 - 69%	D
+       0 - 59%	F
+     
+Adherence to the Java style guide is expected, see http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html and
+http://www.webcom.com/~haahr/essays/java-style/  .
+
+WARNING: None of the assignments in this course are intended to be group projects. You are expected to work on each assignment by yourself. If you need help, ask questions in class or come to my office hours - I often give hints when asked. You are also allowed to DISCUSS general ideas and approaches for the assignment with other students. However, under no circumstances should you copy or even read what another student has written to be submitted for an assignment; nor should you ever tell someone the details of your ideas for an assignment. From my point of view, you have crossed the line from what is allowed to what is forbidden as soon as you read what someone else has written; or you are a part of a detailed discussion of a problem; or you have decided to join efforts with another student to do an assignment. The penalties imposed for forbidden activity will be severe. Look at the "Things You Shouldn't Do" Web page to read about how easily things can go wrong.
+
+VI.	Policies
+
+Academic Integrity/Cheating Policy
+
+You are expected to uphold the school’s standard of conduct relating to academic honesty.  You are responsible for the content and integrity of the academic work submitted.  VIOLATION OF THE HONOR CODE CAN INCLUDE ZERO FOR THE ASSIGNMENT (AT MININUM), FAILURE FOR THE COURSE, AND A REPORT FILED WITH THE OFFICE OF STUDENT AFFAIRS.  You are considered to be in violation of the honor code if you:
+
+1)	Provide or receive unauthorized assistance in coursework, with lab work, or during examinations or quizzes.
+2)	Use of unauthorized materials or devices, such as crib notes, during examination or quizzes.
+3)	PLAGIARIZING PAPERS, ESSAYS, ASSIGNMENTS, PRESENTATIONS, COMPUTER PROJECTS, OR OTHER ACADEMIC EXERCISES BY MISREPRESENTING OR PASSING OFF THE IDEAS, WORDS, FORMULAS, OR DATA OF ANOTHER AS ONE’S OWN.
+4)	Using the same paper or work more than once without my prior authorization.
+5)	Possessing course examination materials before the administration of the exam, without my prior knowledge or consent.
+6)	Computer dishonesty, including: tampering with or making unauthorized change to another person’s or the university’s computer system, illegally copying computer software, personal use of another individual’s computer account, unauthorized activity involving another individual’s personal computer system or any system belonging to the university, and other unauthorized use of violations involving computer use.
+
+Attendance Policy
+
+You are expected attend class.  I do recognize your need to miss class because of illness or personal emergency.  Beyond these excused absences, you may be absent 3 times without penalty.  After 3 times, your total score will be reduced by 2 % for each absence.  You are still responsible to hand in any assignments when they are due.
+
+Make-up Exams
+
+Unless you contact me before the exam and obtain my permission to take a make-up exam, make-up exams will NOT be given.
+
+Overdue Assignments
+
+Assigned are due beginning of lecture on the given due date.  10% will be deducted from the assignment for each class day overdue.
+
+Student Conduct in Class Policy
+
+Any acts of classroom disruption that go beyond the normal rights of students to question and discuss with the instructor will not be tolerated.  The use of the computer, other than what is being taught, will also be counted against you.  DO NOT USE INSTANT MESSENGER WHILE IN CLASS.  DO NOT SURF THE INTERNET OR PLAY GAMES WHILE I AM LECTURING.
+
+Electronic Devices in Class Policy
+
+Cellular phones, pagers, CD players, radios, and similar devices are prohibited in the classroom and laboratory facilities.
